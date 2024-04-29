@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hungleetom/react_login/static/css/main.472c126e.css",
+    "main.js": "/hungleetom/react_login/static/js/main.9929785c.js",
+    "static/js/453.fb4c1376.chunk.js": "/hungleetom/react_login/static/js/453.fb4c1376.chunk.js",
+    "static/media/password.png": "/hungleetom/react_login/static/media/password.52a48bd7575e610a7407.png",
+    "static/media/logo.svg": "/hungleetom/react_login/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hungleetom/react_login/index.html",
+    "main.472c126e.css.map": "/hungleetom/react_login/static/css/main.472c126e.css.map",
+    "main.9929785c.js.map": "/hungleetom/react_login/static/js/main.9929785c.js.map",
+    "453.fb4c1376.chunk.js.map": "/hungleetom/react_login/static/js/453.fb4c1376.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.472c126e.css",
+    "static/js/main.9929785c.js"
+  ]
+}
